@@ -1,2 +1,2 @@
 # DaGeGe
-就这个名字,不要改.
+远程监控项目,包含server和Android
